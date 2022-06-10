@@ -1,4 +1,4 @@
-FYI: most of my code will be written in python.
+FYI: most of my code will be written in papyrus.
 
 ik this readme is ugly but I'm too lazy to learn markdown...
 
